@@ -1,7 +1,6 @@
 <div align= "center">
-      <h1>Ranjan yadav 'Full-Stack-Web-Developer'</h1>
-
-      <h1 align="center">Hi 👋, I'm Ranjan Yadav</h1>
+     <h1>Hi 👋, I'm Ranjan Yadav</h1>
+    
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="center"  height="300px" width="700px" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"></img>
