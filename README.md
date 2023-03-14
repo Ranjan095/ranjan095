@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranjan Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" width="500px" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"></img>
+<img align="center" height="300px" width="700px" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjan095&label=Profile%20views&color=0e75b6&style=flat" alt="ranjan095" /> </p>
 
