@@ -29,10 +29,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjan095&show_icons=true&locale=en&layout=compact" alt="ranjan095" /></p>
+   
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjan095&show_icons=true&locale=en" alt="ranjan095" /></p>
+<a href="https://github.com/ranjan095">
+ </br>
+  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ranjan095&layout=compact&langs_count=8&theme=vue-dark"/>
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=ranjan095&theme=monokai" alt="ayushi"
+   width ="100%"    align="center"
+         height="200px"
+/></a> </p>
+<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+  <div>
+<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=Ranjan095&show_icons=true&locale=en&theme=vue-dark" alt="ayushi" width="46%" height="200px"/></p></div>
+<div>
+<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan095&theme=vue-dark" alt="ayushi" height="200px"  width="48%"/></p></div>
+ <p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranjan095&theme=monokai"  align="center"
+        width="100%" heigth="250px"/></p>
+<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=Ranjan095&theme=dracula" alt="ayushi" align="center" /></a>
+</p>
+    
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjan095&" alt="ranjan095" /></p>
-
-    </div> 
+   
