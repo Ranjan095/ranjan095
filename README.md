@@ -34,20 +34,20 @@
 <a href="https://github.com/ranjan095">
  </br>
   <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ranjan095&layout=compact&langs_count=8&theme=vue-dark"/>
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=ranjan095&theme=monokai" alt="ayushi"
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=ranjan095&theme=monokai" alt="Ranjan"
    width ="100%"    align="center"
          height="200px"
 /></a> </p>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=Ranjan095&show_icons=true&locale=en&theme=vue-dark" alt="ayushi" width="46%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=Ranjan095&show_icons=true&locale=en&theme=vue-dark" alt="Ranjan" width="46%" height="200px"/></p></div>
 <div>
-<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan095&theme=vue-dark" alt="ayushi" height="200px"  width="48%"/></p></div>
+<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan095&theme=vue-dark" alt="Ranjan" height="200px"  width="48%"/></p></div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranjan095&theme=monokai"  align="center"
         width="100%" heigth="250px"/></p>
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=Ranjan095&theme=dracula" alt="ayushi" align="center" /></a>
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=Ranjan095&theme=dracula" alt="Ranjan" align="center" /></a>
 </p>
     
 
